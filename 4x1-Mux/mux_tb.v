@@ -1,0 +1,24 @@
+module mux_tb;
+
+  reg [3:0] I;
+  reg [1:0] S;
+  wire Y;
+
+  mux test (I, S, Y);
+
+  initial begin
+    I = 4'b1010; S = 2'b00;
+
+    #1 S = 2'b01;
+    #1 S = 2'b10;
+    #1 S = 2'b11;
+    #1 $finish;
+  end
+
+  initial begin
+    $monitor("t=%0t, I=%b, S=%b, Y=%b", $time, I, S, Y);
+    $dumpfile("mux.vcd");
+    $dumpvars();
+  end
+
+endmodule
