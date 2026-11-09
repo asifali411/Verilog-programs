@@ -15,3 +15,4 @@
 | 11 | FSM Sequence Detector | [View](https://github.com/asifali411/Verilog-programs/tree/main/FSM-sequence-detector) |
 | 12 | Half Adder | [View](https://github.com/asifali411/Verilog-programs/tree/main/Half-adder) |
 | 12 | Half Subtractor | [View](https://github.com/asifali411/Verilog-programs/tree/main/Half-subtractor) |
+| 12 | Full Adder | [View](https://github.com/asifali411/Verilog-programs/tree/main/Full-adder) |
