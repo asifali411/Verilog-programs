@@ -17,3 +17,4 @@
 | 12 | Half Subtractor | [View](https://github.com/asifali411/Verilog-programs/tree/main/Half-subtractor) |
 | 12 | Full Adder | [View](https://github.com/asifali411/Verilog-programs/tree/main/Full-adder) |
 | 12 | Full Subtractor | [View](https://github.com/asifali411/Verilog-programs/tree/main/Full-subtractor) |
+| 12 | Shift Register (SISO) | [View](https://github.com/asifali411/Verilog-programs/tree/main/Shift-register) |
