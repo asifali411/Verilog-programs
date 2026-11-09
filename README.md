@@ -14,7 +14,8 @@
 | 10 | Synchronous Counter | [View](https://github.com/asifali411/Verilog-programs/tree/main/Sync-counter) |
 | 11 | FSM Sequence Detector | [View](https://github.com/asifali411/Verilog-programs/tree/main/FSM-sequence-detector) |
 | 12 | Half Adder | [View](https://github.com/asifali411/Verilog-programs/tree/main/Half-adder) |
-| 12 | Half Subtractor | [View](https://github.com/asifali411/Verilog-programs/tree/main/Half-subtractor) |
-| 12 | Full Adder | [View](https://github.com/asifali411/Verilog-programs/tree/main/Full-adder) |
-| 12 | Full Subtractor | [View](https://github.com/asifali411/Verilog-programs/tree/main/Full-subtractor) |
-| 12 | Shift Register (SISO) | [View](https://github.com/asifali411/Verilog-programs/tree/main/Shift-register) |
+| 13 | Half Subtractor | [View](https://github.com/asifali411/Verilog-programs/tree/main/Half-subtractor) |
+| 14 | Full Adder | [View](https://github.com/asifali411/Verilog-programs/tree/main/Full-adder) |
+| 15 | Full Subtractor | [View](https://github.com/asifali411/Verilog-programs/tree/main/Full-subtractor) |
+| 16 | Shift Register (SISO) | [View](https://github.com/asifali411/Verilog-programs/tree/main/Shift-register) |
+| 17 | Basic Gates | [View](https://github.com/asifali411/Verilog-programs/tree/main/Basic-gates) |
