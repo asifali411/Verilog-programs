@@ -1,0 +1,5 @@
+*.out
+*.vvp
+*.o
+*.obj
+*.exe
