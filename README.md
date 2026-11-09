@@ -13,3 +13,4 @@
 | 9 | T Flip-Flop | [View](https://github.com/asifali411/Verilog-programs/tree/main/T-Flipflop) |
 | 10 | Synchronous Counter | [View](https://github.com/asifali411/Verilog-programs/tree/main/Sync-counter) |
 | 11 | FSM Sequence Detector | [View](https://github.com/asifali411/Verilog-programs/tree/main/FSM-sequence-detector) |
+| 12 | Half Adder | [View](https://github.com/asifali411/Verilog-programs/tree/main/Half-adder) |
