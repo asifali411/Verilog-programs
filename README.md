@@ -19,3 +19,4 @@
 | 15 | Full Subtractor | [View](https://github.com/asifali411/Verilog-programs/tree/main/Full-subtractor) |
 | 16 | Shift Register (SISO) | [View](https://github.com/asifali411/Verilog-programs/tree/main/Shift-register) |
 | 17 | Basic Gates | [View](https://github.com/asifali411/Verilog-programs/tree/main/Basic-gates) |
+| 18 | Priority Encoder | [View](https://github.com/asifali411/Verilog-programs/tree/main/Priority-encoder) |
